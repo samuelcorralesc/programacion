@@ -1,6 +1,7 @@
 cant=int(input())
 
-
+do=cant-1
+re=do+1
 
 
 
@@ -9,7 +10,7 @@ lista=[]
 
 
 
-for i in range(0,cant):
+for i in range(0,re):
 
 
 
