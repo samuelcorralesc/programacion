@@ -1,4 +1,5 @@
 {
     "sketch": "msketc.ino",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
 }
